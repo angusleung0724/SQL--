@@ -1,4 +1,4 @@
-Submissions: Aboud Dabbas, Angus Leung, Malhar Rajpal, Trung Nguyen 
+Instructions to use:
 
     call "make clean; make" in root directory to generate sql executable
     run ./unit_tests in ./sql_files to run unit tests 
